@@ -1,5 +1,6 @@
 # odin-recipes-kf
 The project to help create the bones of a website that hopefully becomes somewhat decent haha.
+It contains the recipes for three items i consider can create a comforting meal. The usage of all the links, images, structures and lists have helped me improve my website building skills.
 
 ##information credits:
 Tiramisu :
